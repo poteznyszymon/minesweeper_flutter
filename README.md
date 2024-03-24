@@ -1,16 +1,11 @@
-# minesweeper
+# minesweeper 
 
-A new Flutter project.
+## game made in flutter
 
-## Getting Started
+*to place flag just click and hold tile*
 
-This project is a starting point for a Flutter application.
+![1](https://github.com/poteznyszymon/minesweeper_flutter/assets/77408864/c4dd844c-e570-47e1-8482-668a38b7dd38) 
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://github.com/poteznyszymon/minesweeper_flutter/assets/77408864/e854663c-9725-4fc0-a064-7de5d06f76cd)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/poteznyszymon/minesweeper_flutter/assets/77408864/16b41b93-db6f-43e8-9aac-366b6cbf63a8)
