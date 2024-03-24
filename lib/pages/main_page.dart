@@ -95,6 +95,7 @@ class _HomePageState extends State<HomePage> {
         initializeFlagedStates();
         time = 0;
         flagsTotal = 10;
+        timer.cancel();
         timeStart();
       });
     }
